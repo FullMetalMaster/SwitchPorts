@@ -481,7 +481,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Touhou Wonderful Waking World | update-2 | 07/10/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 10: Mountain of Faith | 1.00a-r5 | 30/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 11: Subterranean Animism | 1.00a-r3 | 30/09/2026 | [saekaze/th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
-| 🟢 Touhou 15: Legacy of Lunatic Kingdom | 1.00b-r2 | 09/10/2026 | [saekaze/th15-switch](https://github.com/saekaze/th15-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 15: Legacy of Lunatic Kingdom | 1.00b-r3 | 13/10/2026 | [saekaze/th15-switch](https://github.com/saekaze/th15-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | 🟢 Transport Tycoon Deluxe | 1.07-switch | 08/05/2021 | [rsn8887/OpenTTD](https://github.com/rsn8887/OpenTTD) |  | No |  
 | 🟢 Ultima VII | 1.7.0-switchr1.5 | 23/11/2020 | [capsterx-switch/exult](https://github.com/capsterx-switch/exult) |  | No |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | | Yes |  
@@ -547,6 +547,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Xbox 360
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Flatout 2 | *released* | 13/10/2026 | [antoxa2584x/flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) | Yes |  
 | 🟢 Mass Effect | 0.2.1 | 09/10/2026 | [nebadasSwifty/masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) | | Yes |  
 | 🟢 Mushihimesama Futari | 1.0.0 | 08/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) | Yes |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) | Yes |  
