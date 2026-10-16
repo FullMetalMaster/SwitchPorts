@@ -529,6 +529,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | F-Zero | 0.3.0 | 19/09/2026 | [Thorhax/F-Zero-NX-Modern](https://github.com/Thorhax/F-Zero-NX-Modern) | | Yes |  
 | 🔴 The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) | No |  
 | | 1.2.1 | 26/09/2026 | [Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10899736) | Yes |  
+| 🟢 Illusion of Gaia | 1.0.0 | 16/10/2026 | [mrOt4/babel-recomp](https://github.com/mrOt4/babel-recomp) | | Yes |  
 | 🟢 Mega Man X | 1.0.2 | 07/10/2026 | [Thorhax/MegaManX-NX](https://github.com/Thorhax/MegaManX-NX) | [Link](https://gbatemp.net/threads/megaman-x-recomp-nx.685184/) | Yes |  
 | Starfox | 0.0.8 | 28/09/2026 | [kandowontu2/starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) | Yes |  
 | 🔴 Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
