@@ -120,7 +120,7 @@ violators will be ignored.
 | MULTI | Tico | 0.7.9 | 13/08/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) | Yes |  
 | MULTI | 🟢 RetroArch | *nightly* | *nightly* | [Libretro NX Nightly Builds](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/) | | Yes |  
 | NDS | DrasticDS | 1.1.2 | 16/09/2026 | [NaGaa95/DrasticDS_nx](https://github.com/NaGaa95/DrasticDS_nx) | [Link](https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/) | Yes |  
-| NGC/WII | Dolphin | 1.1.0 | 16/09/2026 | [NaGaa95/dolphin-nx](https://github.com/NaGaa95/dolphin-nx) | [Link](https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/) | Yes |  
+| NGC/WII | 🟢 Dolphin | 1.2.0 | 16/10/2026 | [NaGaa95/dolphin-nx](https://github.com/NaGaa95/dolphin-nx) | [Link](https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/) | Yes |  
 | | 🟢 Nezumiiruka | 1.0.0-rc2 | 10/10/2026 | [PalindromicBreadLoaf/nezumiiruka](https://github.com/PalindromicBreadLoaf/nezumiiruka) | [Link](https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/) | Yes |  
 | PSX | Duckstation | PR 2 | 07/08/2026 | [shooterspps/duckstation](https://github.com/shooterspps/duckstation) | [Link](https://gbatemp.net/threads/duckstation-for-switch.654484/) | Yes |  
 | PS2 | 🟢 NetherSX2 | 1.4.0 | 15/10/2026 | [NaGaa95/NetherSX2_nx](https://github.com/NaGaa95/NetherSX2_nx) | [Link](https://gbatemp.net/threads/nethersx2-switch-port.683038/) | Yes |  
