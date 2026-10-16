@@ -338,6 +338,7 @@ violators will be ignored.
 | The Legend of Zelda: Link's Awakening DX | 1.7.3 | 25/04/2026 | [delsonazevedo/Zelda-LA-DX-HD-Updated](https://github.com/delsonazevedo/Zelda-LA-DX-HD-Updated) | | Yes |   
 | | 1.1.0 | 19/09/2026 | [Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition) | | Yes |  
 | 🟢 The Legend of Zelda: Oracle of Seasons / Oracle of Ages | 1.0.0 | 10/10/2026 | [toniisound/oracles-nx](https://github.com/toniisound/oracles-nx) | [Link](https://gbatemp.net/threads/release-oracles-nx-1-0-native-switch-port-of-oracle-of-ages-oracle-of-seasons.685197/) | Yes |  
+| 🟢 | 1.1.0 | 16/10/2026 | [toniisound/The-Oracles-Project-NX](https://github.com/toniisound/The-Oracles-Project-NX) | [Link](https://gbatemp.net/threads/release-the-oracles-project-nx-1-1-0-oracle-of-ages-seasons-for-switch-widescreen-languages-mods.685427/) | Yes |  
 
 - 1/3 updated 12/10/2026  
 ⎯ [Top](#toc)  
@@ -356,6 +357,7 @@ violators will be ignored.
 ### GameCube
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Animal Crossing | 1.0.0-beta | 12/10/2026 | [digdat0/ACGC-Switch-Port](https://github.com/digdat0/ACGC-Switch-Port) | [Link](https://gbatemp.net/threads/animal-crossing-gcnx-switch-port.685302/) | Yes |  
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
 | | 2.0.0.25 | 19/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) | Yes |  
 | | v1.4.1.0-test | 20/06/2026 | [givethesourceplox/dusk](https://github.com/givethesourceplox/dusk) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
