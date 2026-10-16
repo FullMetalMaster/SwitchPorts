@@ -211,6 +211,7 @@ violators will be ignored.
 | Deus Ex Go | 1.0.2 | 22/09/2026 | [Chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | Yes |  
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | | Yes |  
 | Duke Dashington Remastered | 1.0.0 | 19/09/2026 | [ChanseyIsTheBest/dukedashington_nx](https://github.com/ChanseyIsTheBest/dukedashington_nx) | [Link](https://gbatemp.net/threads/adventure-island-game-ports-total-party-kill-heart-star-poor-bunny-duke-dashington-switch-port.684579/) | Yes |  
+| 🟢 Earn 2 Die | 1.0.0 | 15/10/2026 | [xflipperkast/earntodie2_nx](https://github.com/xflipperkast/earntodie2_nx) | [Link](https://gbatemp.net/threads/earn-to-die-2-switch-port.685412/) | Yes |  
 | The Elder Scrolls II: Daggerfall Unity | 1.1.1.9s1.0.2 | 08/09/2026 | [ChanseyIsTheBest/daggerfall_nx](https://github.com/ChanseyIsTheBest/daggerfall_nx) | [Link](https://gbatemp.net/threads/daggerfall-unity-switch-port.684258/unread) | Yes |  
 | The Executive | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/the_executive_nx](https://github.com/ChanseyIsTheBest/the_executive_nx) | | Yes |  
 | Far Cry | 1.0.1 | 27/09/2026 | [artslay/NearChuckle_nx](https://github.com/artslay/NearChuckle_nx) | [Link](https://gbatemp.net/threads/far-cry-1-nintendo-switch-port.684771/) | Yes |  
