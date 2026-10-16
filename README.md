@@ -464,7 +464,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Serious Sam: The First Encounter / The Second Encounter | nx1 | 28/12/2019 | [fgsfdsfgs/Serious-Engine](https://github.com/fgsfdsfgs/Serious-Engine) |  | No |  
 | 🔴 The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | | ??? |  
 | Silent Hill | 1.1.0 | 15/08/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | Yes |  
-| 🟢 Silent Hill 2 | 0.65 | 13/10/2026 | [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
+| 🟢 Silent Hill 2 | 1.00 | 15/10/2026 | [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
 | 🟢 Silent Hill 3 | 0.03 | 13/10/2026 | [cutarev/sh3-nx](https://github.com/cutarev/sh3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
 | 🟢 Silent Hill 4: The Room | 0.1 | 11/10/2026 | [72ak/sh4-nx](https://github.com/72ak/sh4-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10922888) | Yes |  
 | 🟢 Sly Cooper and the Thievius Raccoonus | 0.4.0-beta.1 | 10/10/2026 | [NaGaa95/ProjectCane](https://github.com/NaGaa95/ProjectCane) | [Link](https://gbatemp.net/threads/sly-cooper-projectcane-switch-port.685266/) | Yes |  
