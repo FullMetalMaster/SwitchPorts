@@ -467,6 +467,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Return to Castle Wolfenstein | *pre-release* | 19/11/2020 | [capsterx-switch/iortcw](https://github.com/capsterx-switch/iortcw) |  | No |  
 | 🟢 Rocks'n'Diamonds / Mirrormagic | 1.15 | 22/05/2021 | [rsn8887/rocksndiamonds](https://github.com/rsn8887/rocksndiamonds) |  | No |  
 | 🟢 RollerCoaster Tycoon 2 | 1.06-switch | 23/04/2021 | [rsn8887/OpenRCT2](https://github.com/rsn8887/OpenRCT2) |  | No |  
+| 🟢 | 1.0.0 | 10/09/2026 | [Wander-Eule/OpenRCT2-Switch](https://github.com/Wander-Eule/OpenRCT2-Switch) | | Yes |  
 | 🟢 Serious Sam: The First Encounter / The Second Encounter | nx1 | 28/12/2019 | [fgsfdsfgs/Serious-Engine](https://github.com/fgsfdsfgs/Serious-Engine) |  | No |  
 | 🔴 The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | | ??? |  
 | Silent Hill | 1.1.0 | 15/08/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | Yes |  
