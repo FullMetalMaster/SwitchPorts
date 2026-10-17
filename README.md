@@ -382,6 +382,7 @@ violators will be ignored.
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | Banjo Kazooie | 1.1.0 | 18/08/2026 | [PalindromicBreadLoaf/Docklight](https://github.com/PalindromicBreadLoaf/Docklight) | [Link](https://gbatemp.net/threads/docklight-a-port-of-lighthouse-to-the-nintendo-switch.683488/) | Yes |  
+| 🟢 Bomberman 64 | 1.0.0 | 16/10/2026 | [paulodiasred/BM64Switch](https://github.com/paulodiasred/BM64Switch) | [Link](https://gbatemp.net/threads/release-bomberman-64-recompiled-native-switch-port-nsp-nro-60-fps.685448/) | Yes |  
 | Diddy Kong Racing | 1.2.1 | 12/08/2026 | [boraeskicioglu/goldenballoon_nx](https://github.com/boraeskicioglu/goldenballoon_nx) | [Link](https://gbatemp.net/threads/diddy-kong-racing-golden-balloon-switch-port.683670/) | Yes |  
 | 🟢 Donkey Kong 64 | 1.1.2 | 11/10/2026 | [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | [Link](https://gbatemp.net/threads/dk64-reconkgpiled-nx-port.685111/) | Yes |  
 | 🟢 Doom 64 | 0.2.0-nx *pre-release* | 23/10/2019 | [fgsfdsfgs/Doom64EX](https://github.com/fgsfdsfgs/Doom64EX) |  | No |  
