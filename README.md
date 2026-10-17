@@ -89,29 +89,33 @@ violators will be ignored.
   and B.) Just seems like a waste of time.
 - Above information updated on future state of project.
 
-## TOC
-⎯ [Emulators](#emulators)  
-⎯ [Android 32bit](#android-32bit)  
-⎯ [Android 64bit](#android-64bit)  
-⎯ [Arcade](#arcade)  
-⎯ [Gameboy](#gameboy)  
-⎯ [Gameboy Color](#gameboy-color)  
-⎯ [Gameboy Advance](#gameboy-advance)  
-⎯ [GameCube](#gamecube)  
-⎯ [Genesis](#genesis) (32x contained here also)  
-⎯ [Nintendo 64](#nintendo-64)  
+<a id="toc"></a>  
+## Table of Contents  
+
+Alphabetized by system  
+⎯ [Emulators](#emu)  
+⎯ [Android 32bit](#and32)  
+⎯ [Android 64bit](#and64)  
+⎯ [Arcade](#arc)  
+⎯ [Nintendo Gameboy](#gb)  
+⎯ [Nintendo Gameboy Color](#gbc)  
+⎯ [Nintendo Gameboy Advance](#gba)  
+⎯ [Nintendo GameCube](#gc)  
+⎯ [Sega Genesis](#gen) (32x contained here also)  
+⎯ [Nintendo 64](#n64)  
 ⎯ [PC](#pc)  
-⎯ [Playstation](#playstation)  
-⎯ [Playstation 2](#playstation-2)  
-⎯ [Super Nintendo](#super-nintendo-entertainment-system)  
-⎯ [Xbox](#xbox)  
-⎯ [Xbox 360](#xbox-360)  
-⎯ [Wii U](#wii-u)  
+⎯ [Sony Playstation](#psx)  
+⎯ [Sony Playstation 2](#ps2)  
+⎯ [Super Nintendo Entertainment System](#snes)  
+⎯ [Microsoft Xbox](#xbox)  
+⎯ [Microsoft Xbox 360](#x360)  
+⎯ [Nintendo Wii U](#wiiu)  
 ⎯ [Special Thanks](#special-thanks)  
 
 ## List (perpetual WIP)
 `(note: these games may have originated on other systems; this label is just an indication of which version has been adapted; Android is a prime example)`
 
+<a id="emu"></a>  
 ### Emulators
 | System | Title | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- | --- |
@@ -143,6 +147,7 @@ violators will be ignored.
 - 6/24 Updated 12/10/2026  
 ⎯ [Top](#toc)  
 
+<a id="and32"></a>  
 ### Android 32bit
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
@@ -173,6 +178,7 @@ violators will be ignored.
 - 11/22 Updated 12/10/2026  
 ⎯ [Top](#toc)  
 
+<a id="and64"></a>  
 ### Android 64bit
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |
@@ -316,6 +322,7 @@ violators will be ignored.
 - 6/134 updated 12/10/2026  
 ⎯ [Top](#toc)
 
+<a id="arc"></a>  
 ### Arcade
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
@@ -331,7 +338,8 @@ violators will be ignored.
 - 6/8 updated 12/10/2026  
 ⎯ [Top](#toc)
 
-### Gameboy
+<a id="gb"></a>  
+### Nintendo Gameboy
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | 🟢 Pokemon Gen 1 | 0.3.80 | 11/10/2026 | [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp) | | Yes |  
@@ -340,7 +348,8 @@ violators will be ignored.
 - 2/2 updated 12/10/2026  
 ⎯ [Top](#toc)  
 
-### Gameboy Color
+<a id="gbc"></a>  
+### Nintendo Gameboy Color
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |
 | The Legend of Zelda: Link's Awakening DX | 1.7.3 | 25/04/2026 | [delsonazevedo/Zelda-LA-DX-HD-Updated](https://github.com/delsonazevedo/Zelda-LA-DX-HD-Updated) | | Yes |   
@@ -351,7 +360,8 @@ violators will be ignored.
 - 1/3 updated 12/10/2026  
 ⎯ [Top](#toc)  
 
-### Gameboy Advance  
+<a id="gba"></a>  
+### Nintendo Gameboy Advance  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: The Minish Cap | v0.25 | 04/06/2026 | [HayatoG/tmc](https://github.com/HayatoG/tmc) | | Yes |  
@@ -362,7 +372,8 @@ violators will be ignored.
 - 2/4 updated 12/10/2026  
 ⎯ [Top](#toc)  
 
-### GameCube
+<a id="gc"></a>  
+### Nintendo GameCube
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Animal Crossing | 1.0.0-beta | 12/10/2026 | [digdat0/ACGC-Switch-Port](https://github.com/digdat0/ACGC-Switch-Port) | [Link](https://gbatemp.net/threads/animal-crossing-gcnx-switch-port.685302/) | Yes |  
@@ -377,7 +388,8 @@ violators will be ignored.
 - 3/7 updated 12/10/2026  
 ⎯ [Top](#toc)  
 
-### Genesis
+<a id="gen"></a>  
+### Sega Genesis
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | Virtua Racing Deluxe (32x) | 1.0.0 | 02/10/2026 | [Thorhax/sega-vr-disasm](https://github.com/Thorhax/sega-vr-disasm) | | Yes |  
@@ -385,6 +397,7 @@ violators will be ignored.
 - 0/1 updated 12/10/2026  
 ⎯ [Top](#toc)  
 
+<a id="n64"></a>  
 ### Nintendo 64
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
@@ -511,7 +524,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 - 31/85 updated 12/10/2026  
 ⎯ [Top](#toc)  
 
-### Playstation
+<a id="psx"></a>  
+### Sony Playstation
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
 | Lain | 0.4.4-nx.6 | 20/08/2026 | [amydevs/lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) | Yes |  
@@ -520,7 +534,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 - 1/2 updated 12/10/2026  
 ⎯ [Top](#toc)
 
-### Playstation 2
+<a id="ps2"></a>  
+### Sony Playstation 2
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Dragonball Z: Tenkaichi Budokai 3 | 0.1 | 13/10/2026 | [alexyt2021es/DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX) | | Yes |  
@@ -529,6 +544,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 - 1/1 updated 12/10/2026  
 ⎯ [Top](#toc)
 
+<a id="snes"></a>  
 ### Super Nintendo Entertainment System
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
@@ -548,7 +564,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 - 1/10 updated 12/10/2026  
 ⎯ [Top](#toc)
 
-### Xbox  
+<a id="xbox"></a>  
+### Microsoft Xbox  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Burnout 3: Takedown | 0.2 | 12/10/2026 | [antoxa2584x/burnout3-sw](https://github.com/antoxa2584x/burnout3-sw) | [Link](https://gbatemp.net/threads/burnout-3-takedown-switch-port.685241/) | Yes | 
@@ -563,7 +580,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 - 7/7 updated 12/10/2026  
 ⎯ [Top](#toc)  
 
-### Xbox 360
+<a id="x360"></a>  
+### Microsoft Xbox 360
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Lost Odyssey | 0.9.65 | 15/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) | Yes |  
@@ -583,7 +601,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 - 4/11 updated 12/10/2026  
 ⎯ [Top](#toc)
 
-### Wii U  
+<a id="wiiu"></a>  
+### Nintendo Wii U  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 The Legend of Zelda: Wind Waker HD | 0.4.4 | 12/10/2026 | [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) | Yes |  
