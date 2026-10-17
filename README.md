@@ -59,13 +59,18 @@ This is intended to be an (ever-growing) list of ports that have been compiled f
 Obvious requirements to run this software would be that you A.) Have access to a modded Nintendo Switch,
 B.) have access to the source material (all of these projects require commercially acquired assets to 
 make them functional) and C.) have a little know how to get everything working. Where applicable, I will
-defer to the projects build notes; however, most of these projects I will attempt to build myself to
-ensure functionality and ease of use. Where I encounter issues, I will attempt to rectify and provide
-improved instructions/directions. Expect this readme to expand over time. See [here](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/)
-for the GBATemp thread discussing this topic.
+defer to the projects build notes. Expect this readme to expand over time. See
+[here](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/) for the GBATemp thread discussing
+this topic.  
 
 If a repo is found to be disseminating copyrighted materials, it will be removed. No exceptions. Repeat
 violators will be ignored. 
+
+>however, most of these projects I will attempt to build myself to
+>ensure functionality and ease of use. Where I encounter issues, I will attempt to rectify and provide
+>improved instructions/directions.
+
+(this is a planned future development; stay tuned).
 
 ## Recent Changes:
 - Changed `Instructions accurate?` header to `Updated for FW 21+?`, which will link to
@@ -82,6 +87,7 @@ violators will be ignored.
   discuss any title that doesn't have a dedicated thread. I briefly considered making a thread
   for each title missing one, but A.) didn't feel like flooding GBATemp and catching a vacation,
   and B.) Just seems like a waste of time.
+- Above information updated on future state of project.
 
 ## TOC
 ⎯ [Emulators](#emulators)  
