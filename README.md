@@ -481,6 +481,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Starbound | 1.1 | 23/07/2026 | [RohanBhattacharyya/oSBM](https://github.com/RohanBhattacharyya/oSBM) | | Yes |  
 | Terraria (+ Mod Loader) | *released* | ??? | [JohnUzoka/terrabuilder-nx](https://github.com/JohnUzoka/terrabuilder-nx) | | Yes |  
 | Touhou 6: Embodiment of the Scarlet Devil | 1.02h-r2 | 30/09/2026 | [saekaze/th06-switch](https://github.com/saekaze/th06-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 7.5: Immaterial and Missing Power | 1.11-r1 | 17/10/2026 | [saekaze/th075-switch](https://github.com/saekaze/th075-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/post-10926406) | Yes |  
 | Touhou 7: Perfect Cherry Blossom | 1.00b-r5 | 30/09/2026 | [saekaze/th07-switch](https://github.com/saekaze/th07-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 8: Imperishable Night | 1.00d-r4 | 30/09/2026 | [saekaze/th08-switch](https://github.com/saekaze/th08-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 9: Phantasmagoria of Flower View | 1.50a-r2 | 30/09/2026 | [saekaze/th09-switch](https://github.com/saekaze/th09-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
