@@ -538,7 +538,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Sony Playstation 2
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 Dragonball Z: Tenkaichi Budokai 3 | 0.1 | 13/10/2026 | [alexyt2021es/DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX) | | Yes |  
+| 🟢 Dragonball Z: Tenkaichi Budokai 3 | 0.3 | 17/10/2026 | [alexyt2021es/DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX) | | Yes |  
 | 🟢 Jak and Daxter Trilogy | 1.1.1-beta | 10/10/2026 | [fildicio/jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-port-on-nintendo-switch.684945/) | Yes |  
 
 - 1/1 updated 12/10/2026  
