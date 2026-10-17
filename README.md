@@ -287,6 +287,7 @@ violators will be ignored.
 | Sonic Runners Adventure | 0.1.46 | 18/08/2026 | [boraeskicioglu/sonic_runners_adventure_nx](https://github.com/boraeskicioglu/sonic_runners_adventure_nx) | [Link](https://gbatemp.net/threads/sonic-runners-adventure-switch-port.683857/) | Yes |  
 | Sonic Triple Trouble 16-bit | 1.0.0 | 29/06/2026 | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | [Link](https://gbatemp.net/threads/sonic-triple-trouble-16-bit-switch-port.682814/) | Yes |  
 | Stick With It | 1.0.0 | 08/07/2026 | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | [Link](https://gbatemp.net/threads/stick-with-it-switch-port.683200/) | Yes |  
+| 🟢 Stone Story RPG | 1.0.0 | 17/10/2026 | [xflipperkast/stonestory_nx](https://github.com/xflipperkast/stonestory_nx) | | Yes |  
 | Streets of Rage X | 1.0.1 | 14/08/2026 | [delsonazevedo/sorx_nx](https://github.com/delsonazevedo/sorx_nx) | | Yes |  
 | Subway Surfers | 1.0.3 | 03/08/2026 | [NaGaa95/subwaysurfers_nx](https://github.com/NaGaa95/subwaysurfers_nx) | [Link](https://gbatemp.net/threads/subway-surfers-switch-port.683440/) | Yes |  
 | Super Mario 63 Redux | 1.0.0 | 15/09/2026 | [aks796/sm63redux_nx](https://github.com/aks796/sm63redux_nx) | | Yes |  
