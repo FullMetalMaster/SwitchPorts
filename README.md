@@ -468,6 +468,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Hurrican | 1.04-Switch | 30/01/2024 | [rsn8887/Hurrican](https://github.com/rsn8887/Hurrican) |  | No |  
 | Insaniquarium | 1.0.1 | 06/09/2026 | [ChanseyIsTheBest/insaniquarium_nx](https://github.com/ChanseyIsTheBest/insaniquarium_nx) | [Link](https://gbatemp.net/threads/insaniquarium-deluxe-switch-port.684222/) | Yes |  
 | 🔴 Jazz Jackrabbit | 1.2.1 | 18/09/2019 | [KranKRival/OpenJazzNX](https://github.com/KranKRival/OpenJazzNX?) | [Link](https://gbatemp.net/threads/openjazznx-openjazz-port-with-sdl2-for-the-nintendo-switch.546759/) | No |  
+|The Coffin of Andy and Leyley |v0.1.0| 10/18/2026 | https://github.com/ETCHDEV/BurialNX
+|
 | Jazz Jackrabbit 2 | 3.8.0 | 22/08/2026 | [deathkiller/jazz2](https://github.com/deathkiller/jazz2) | | Yes |  
 | 🟢 The Legend of Zelda: Oni Link Begins | 1.1.1 | 25/08/2026 | [worthis/ZeldaOLB-new-engine](https://github.com/worthis/ZeldaOLB-new-engine) |  | Yes |  
 | 🟢 The Legend of Zelda: Return of the Hylian | 1.1.4 | 25/08/2026 | [worthis/ZeldaROTH-new-engine](https://github.com/worthis/ZeldaROTH-new-engine) |  | Yes |  
