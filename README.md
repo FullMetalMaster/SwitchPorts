@@ -124,7 +124,7 @@ Alphabetized by system
 | DC | 🟢 Flycast | ??? | 12/10/2026 | [https://flyinghead.github.io/](https://flyinghead.github.io/flycast-builds/) | [Link](https://gbatemp.net/threads/flycast-standalone-for-nintendo-switch.593111/) | Yes |  
 | J2ME | FreeJ2ME | Proto | 02/09/2026 | [MiaouMeowMiaou/j2me-for-switch](https://github.com/MiaouMeowMiaou/j2me-for-switch) | [Link](https://gbatemp.net/threads/freej2me-on-switch.684170/) | Yes |  
 | G&W | Yokoi | 1.0.4 | 16/09/2026 | [1timewire1/Yokoi_Game_-_Watch_emulator_switch](https://github.com/1timewire1/Yokoi_Game_-_Watch_emulator_switch/tree/switch-port) | [Link](https://gbatemp.net/threads/yokoi-game-watch-sm5xx-based-lcd-handhelds-emulator.684004/) | Yes |  
-| KiriKiri | 🟢 Kirikiroid2-NX | 1.0.0 | 11/10/2026 | [Erige005/Kirikiroid2-NX](https://github.com/Erige005/Kirikiroid2-NX) | [Link](https://gbatemp.net/threads/release-kirikiroid2-nx-kirikiroid2-kirikiri-krkr-visual-novel-player-ported-to-the-switch.684902/) | Yes |  
+| KiriKiri | 🟢 Kirikiroid2-NX | 1.0.1 | 18/10/2026 | [Erige005/Kirikiroid2-NX](https://github.com/Erige005/Kirikiroid2-NX) | [Link](https://gbatemp.net/threads/release-kirikiroid2-nx-kirikiroid2-kirikiri-krkr-visual-novel-player-ported-to-the-switch.684902/) | Yes |  
 | MODEL2 | 🟢 Model2 NX | 1.0 | 10/10/2026 | [toniisound/model2-nx](https://github.com/toniisound/model2-nx) | [Link](https://gbatemp.net/threads/release-model2-nx-1-0-experimental-sega-model-2-emulator-for-nintendo-switch-powered-by-mame.685198/) | Yes |  
 | MODEL3 | 🟢 Supermodel-NX | 1.3.1 | 08/10/2026 | [toniisound/supermodel-nx](https://github.com/toniisound/supermodel-nx) | [Link](https://gbatemp.net/threads/release-supermodel-nx-sega-model-3-arcade-emulator-for-nintendo-switch.684935/) | Yes |  
 | MULTI | Tico | 0.7.9 | 13/08/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) | Yes |  
@@ -421,7 +421,7 @@ Alphabetized by system
 | Super Smash Bros. | 1.6.0 | 23/09/2026 | [KawaiiBunga/BattleShipNX](https://github.com/KawaiiBunga/BattleShipNX) | | Yes |  
 | | 1.3.0 | 12/06/2026 | [delsonazevedo/BattleShip-Switch](https://github.com/delsonazevedo/BattleShip-Switch) | | Yes |  
 | Wave Race 64 | 0.1.0 | 21/09/2026 | [1weell/RaceWave46-Switch](https://github.com/1weell/RaceWave46-Switch) | | Yes |  
-| | 1.0.0 | 16/09/2026 | [DomazinUS/RaceWave46](https://github.com/DomazinUS/RaceWave46) | [Link](https://gbatemp.net/threads/release-racewave46-wave-race-64-recompiled-for-nintendo-switch-60fps-720p-1080p-stock-clocks.684841/) | Yes |  
+| 🟢 | RC7 | 17/10/2026 | [DomazinUS/RaceWave46-Switch](https://github.com/DomazinUS/RaceWave46-Switch) | [Link](https://gbatemp.net/threads/release-racewave46-wave-race-64-recompiled-for-nintendo-switch-60fps-720p-1080p-stock-clocks.684841/) | Yes |  
 
 - 3/18 updated 12/10/2026  
 ⎯ [Top](#toc)  
@@ -591,6 +591,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) | Yes |  
 | 🟢 Peggle 2 | 1.0.0 | 14/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) | Yes |  
 | 🟢 The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | | Yes |  
+| 🟢 Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) | Yes |  
 | 🟢 Sonic Adventure 2 | 1.0.1 | 12/10/2026 | [ChanseyIsTheBest/sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) | Yes |  
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) | Yes |  
 | 🟠 Sonic Unleashed | 0.0.3 | 30/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | Yes |  
