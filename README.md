@@ -415,7 +415,7 @@ Alphabetized by system
 | Paper Mario | 1.0.2 | 01/10/2026 | [Thorhax/PaperBoat-NX-Modern](https://github.com/Thorhax/PaperBoat-NX-Modern) | | Yes |  
 | | 1.0.2 | 28/09/2026 | [CypherNoodle/PaperBoat-nx](https://github.com/CypherNoodle/PaperBoat-nx) | | Yes |  
 | Perfect Dark | ??? | 13/08/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) | Yes |  
-| 🟢 StarCraft64 | 0.5 | 13/10/2026 | [gabryboy12-ai/StarCraft64-NX](https://github.com/gabryboy12-ai/StarCraft64-NX) | | Yes |  
+| 🟢 StarCraft64 | 1.3 | 18/10/2026 | [gabryboy12-ai/StarCraft64-NX](https://github.com/gabryboy12-ai/StarCraft64-NX) | | Yes |  
 | 🔴 StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
 | Super Mario 64 | 3.0.0 | 07/09/2026 | [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) | [Link](https://gbatemp.net/threads/super-mario-64-gets-a-new-pc-port-from-the-harbour-masters-team.678985/) | Yes |  
 | Super Smash Bros. | 1.6.0 | 23/09/2026 | [KawaiiBunga/BattleShipNX](https://github.com/KawaiiBunga/BattleShipNX) | | Yes |  
