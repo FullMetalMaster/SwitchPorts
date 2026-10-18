@@ -270,6 +270,9 @@ Alphabetized by system
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | | Yes |  
 | Osmos | 1.0.0 | 01/09/2026 | [ChanseyIsTheBest/osmos_nx](https://github.com/ChanseyIsTheBest/osmos_nx) | [Link](https://gbatemp.net/threads/osmos-switch-port.684154/) | Yes |  
 | Papa Pear Saga | 1.0.0 | 09/09/2026 | [ChanseyIsTheBest/papapear_nx](https://github.com/ChanseyIsTheBest/papapear_nx) | [Link](https://gbatemp.net/threads/papa-pear-saga-switch-port.684294/) | Yes |  
+| 🟢 Papa's Burgeria to Go! | *unreleased* | 18/10/2026 | [xflipperkast/papasburgeria_nx](https://github.com/xflipperkast/papasburgeria_nx) | | Yes |  
+| 🟢 Papa's Cluckeria to Go! | 1.0.0 | 18/10/2026 | [xflipperkast/papascluckeria_nx](https://github.com/xflipperkast/papascluckeria_nx) | | Yes |  
+| 🟢 Papa's Paleteria to Go! | 1.0.0 | 18/10/2026 | [xflipperkast/papaspaleteria_nx](https://github.com/xflipperkast/papaspaleteria_nx) | | Yes |  
 | Papa's Pizzeria To Go! | 1.0.0 | 20/08/2026 | [xflipperkast/papapizzatg_nx](https://github.com/xflipperkast/papapizzatg_nx) | [Link](https://gbatemp.net/threads/papas-pizzeria-to-go-switch-port.683889/) | Yes |  
 | Papers, Please | 1.0.1 | 28/07/2026 | [ChanseyIsTheBest/papersplease_nx](https://github.com/ChanseyIsTheBest/papersplease_nx) | [Link](https://gbatemp.net/threads/papers-please-switch-port.683337/) | Yes |  
 | Pizza vs. Skeletons | 1.0.0 | 02/09/2026 | [ChanseyIsTheBest/pvs_nx/](https://github.com/ChanseyIsTheBest/pvs_nx/) | [Link](https://gbatemp.net/threads/pizza-vs-skeletons-switch-port.684163/) | Yes |  
@@ -590,6 +593,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Mushihimesama Futari | 1.0.0 | 08/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) | Yes |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) | Yes |  
 | 🟢 Peggle 2 | 1.0.0 | 14/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) | Yes |  
+| 🟢 Skate 3 | 0.1.1 | 18/10/2026 | [xflipperkast/papasburgeria_nx](https://github.com/xflipperkast/papasburgeria_nx) | | Yes |  
 | 🟢 The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | | Yes |  
 | 🟢 Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) | Yes |  
 | 🟢 Sonic Adventure 2 | 1.0.1 | 12/10/2026 | [ChanseyIsTheBest/sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) | Yes |  
